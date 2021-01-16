@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KampIntro", "KampIntro\KampIntro.csproj", "{FCDE9436-B4DD-41C5-9799-8D5566260594}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCDE9436-B4DD-41C5-9799-8D5566260594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCDE9436-B4DD-41C5-9799-8D5566260594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCDE9436-B4DD-41C5-9799-8D5566260594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCDE9436-B4DD-41C5-9799-8D5566260594}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90E7829C-F204-45ED-BC31-B84D67C6C751}
+	EndGlobalSection
+EndGlobal
